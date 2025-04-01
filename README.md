@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-Remember to create database.
+Remember to create the database.
 ```
 create database if not exist user_management;
 use user_management;
